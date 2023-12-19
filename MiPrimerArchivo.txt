@@ -1,3 +1,5 @@
 Hola Mundo.
 
-Primer repositorio local creado pero sin sicronizar con Github.(git init, git add, git commit)
+Primer repositorio local creado (PrepCourse Henry) pero sin sicronizar con Github.(git init, git add, git commit)
+
+Luego cree un repositorio (PrepCourse-Henry) en Github sin Readme.md lo conecte al reposirio previamente creado(PrepCourse Henry) 
